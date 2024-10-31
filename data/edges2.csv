@@ -1,0 +1,7 @@
+Source,Target,Weight
+Warehouse1,DC1,8
+Warehouse1,DC3,12
+DC1,DC2,7
+DC2,Retail1,5
+DC3,Retail2,10
+Retail3,DC4,3
