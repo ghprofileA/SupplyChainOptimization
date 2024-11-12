@@ -1,0 +1,6 @@
+Source,Target,Weight
+Warehouse1,DC1,3.0
+Warehouse1,Warehouse2,7.0
+DC1,Retail1,1.0
+Retail1,Warehouse2,2.0
+Warehouse2,DC1,5.0
